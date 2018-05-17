@@ -1,0 +1,85 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,number_png,number_fnt,btn_png,134atk_png,134mov_png,134spc_png,lvbu_png,lvbu_json,weizheng_png,weizheng_json,gongshou_png,hero_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "font/number.png",
+			"type": "image",
+			"name": "number_png"
+		},
+		{
+			"url": "font/number.fnt",
+			"type": "font",
+			"name": "number_fnt"
+		},
+		{
+			"url": "assets/btn.png",
+			"type": "image",
+			"name": "btn_png"
+		},
+		{
+			"url": "assets/134atk.png",
+			"type": "image",
+			"name": "134atk_png"
+		},
+		{
+			"url": "assets/134mov.png",
+			"type": "image",
+			"name": "134mov_png"
+		},
+		{
+			"url": "assets/134spc.png",
+			"type": "image",
+			"name": "134spc_png"
+		},
+		{
+			"url": "movieClip/lvbu.png",
+			"type": "image",
+			"name": "lvbu_png"
+		},
+		{
+			"url": "movieClip/lvbu.json",
+			"type": "json",
+			"name": "lvbu_json"
+		},
+		{
+			"name": "weizheng_png",
+			"type": "image",
+			"url": "movieClip/weizheng.png"
+		},
+		{
+			"name": "weizheng_json",
+			"type": "json",
+			"url": "movieClip/weizheng.json"
+		},
+		{
+			"name": "gongshou_png",
+			"type": "image",
+			"url": "movieClip/gongshou.png"
+		},
+		{
+			"name": "hero_json",
+			"type": "json",
+			"url": "data/hero.json"
+		}
+	]
+}

@@ -1,0 +1,430 @@
+{
+    "mc": {
+        "lvbu": {
+            "frameRate": 60,
+            "labels": [
+                {
+                    "name": "movBottom",
+                    "frame": 1,
+                    "end": 30
+                },
+                {
+                    "name": "movTop",
+                    "frame": 31,
+                    "end": 60
+                },
+                {
+                    "name": "movLeft",
+                    "frame": 61,
+                    "end": 90
+                },
+                {
+                    "name": "movStandBottom",
+                    "frame": 91,
+                    "end": 105
+                },
+                {
+                    "name": "movStandTop",
+                    "frame": 106,
+                    "end": 120
+                },
+                {
+                    "name": "movStandLeft",
+                    "frame": 121,
+                    "end": 135
+                },
+                {
+                    "name": "movWeak",
+                    "frame":136,
+                    "end": 165
+                },
+                {
+                    "name": "spcDefenseBottom",
+                    "frame": 166,
+                    "end": 180
+                },
+                {
+                    "name": "spcDefenseTop",
+                    "frame": 181,
+                    "end": 195
+                },
+                {
+                    "name": "spcDefenseLeft",
+                    "frame": 196,
+                    "end": 210
+                },
+                {
+                    "name": "spcDefensiveFailure",
+                    "frame": 211,
+                    "end": 225
+                },
+                {
+                    "name": "spcDefenseHearten",
+                    "frame": 226,
+                    "end": 240
+                },
+                {
+                    "name": "atkBottom",
+                    "frame": 241,
+                    "end": 300
+                },
+                {
+                    "name": "atkTop",
+                    "frame": 301,
+                    "end": 360
+                },
+                {
+                    "name": "atkLeft",
+                    "frame": 361,
+                    "end": 420
+                }
+            ],
+            "events": [
+                {
+                    "name": "@02",
+                    "frame": 2
+                }
+            ],
+            "frames": [
+                {
+                    "res": "mov0",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov1",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov2",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov3",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov4",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov5",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov6",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov7",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov8",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov9",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov10",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov11",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov12",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov13",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov14",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "mov15",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk0",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk1",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk2",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk3",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk4",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk5",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk6",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk7",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk8",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk9",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk10",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                },
+                {
+                    "res": "atk11",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 15
+                }
+            ]
+        }
+    },
+    "res": {
+        "mov0": {
+            "x": 65,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "mov1": {
+            "x": 65,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "mov2": {
+            "x": 65,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "mov3": {
+            "x": 65,
+            "y": 144,
+            "w": 48,
+            "h": 48
+        },
+        "mov4": {
+            "x": 65,
+            "y": 192,
+            "w": 48,
+            "h": 48
+        },
+        "mov5": {
+            "x": 65,
+            "y": 240,
+            "w": 48,
+            "h": 48
+        },
+        "mov6": {
+            "x": 65,
+            "y": 288,
+            "w": 48,
+            "h": 48
+        },
+        "mov7": {
+            "x": 65,
+            "y": 336,
+            "w": 48,
+            "h": 48
+        },
+        "mov8": {
+            "x": 65,
+            "y": 384,
+            "w": 48,
+            "h": 48
+        },
+        "mov9": {
+            "x": 65,
+            "y": 432,
+            "w": 48,
+            "h": 48
+        },
+        "mov10": {
+            "x": 65,
+            "y": 480,
+            "w": 48,
+            "h": 48
+        },
+        "mov11": {
+            "x": 65,
+            "y": 528,
+            "w": 48,
+            "h": 48
+        },
+        "mov12": {
+            "x": 65,
+            "y": 576,
+            "w": 48,
+            "h": 48
+        },
+        "mov13": {
+            "x": 65,
+            "y": 624,
+            "w": 48,
+            "h": 48
+        },
+        "mov14": {
+            "x": 65,
+            "y": 672,
+            "w": 48,
+            "h": 48
+        },
+        "mov15": {
+            "x": 65,
+            "y": 720,
+            "w": 48,
+            "h": 48
+        },
+        "atk0": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        },
+        "atk1": {
+            "x": 0,
+            "y": 64,
+            "w": 64,
+            "h": 64
+        },
+        "atk2": {
+            "x": 0,
+            "y": 128,
+            "w": 64,
+            "h": 64
+        },
+        "atk3": {
+            "x": 0,
+            "y": 192,
+            "w": 64,
+            "h": 64
+        },
+        "atk4": {
+            "x": 0,
+            "y": 256,
+            "w": 64,
+            "h": 64
+        },
+        "atk5": {
+            "x": 0,
+            "y": 320,
+            "w": 64,
+            "h": 64
+        },
+        "atk6": {
+            "x": 0,
+            "y": 384,
+            "w": 64,
+            "h": 64
+        },
+        "atk7": {
+            "x": 0,
+            "y": 448,
+            "w": 64,
+            "h": 64
+        },
+        "atk8": {
+            "x": 0,
+            "y": 512,
+            "w": 64,
+            "h": 64
+        },
+        "atk9": {
+            "x": 0,
+            "y": 576,
+            "w": 64,
+            "h": 64
+        },
+        "atk10": {
+            "x": 0,
+            "y": 640,
+            "w": 64,
+            "h": 64
+        },
+        "atk11": {
+            "x": 0,
+            "y": 704,
+            "w": 64,
+            "h": 64
+        }
+    }
+}
